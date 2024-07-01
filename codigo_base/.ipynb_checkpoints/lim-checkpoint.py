@@ -11,4 +11,3 @@ def tabla_grouped(lim_inf, lim_sup, mrks, freq_absoluta, freq_relativa, frecuenc
     
     df = pd.DataFrame(data)
     return df
-    
